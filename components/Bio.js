@@ -24,7 +24,7 @@ class Bio extends React.Component {
             height: rhythm(2),
           }}
         />
-        Written by <strong>{config.authorName}</strong> - a Web Developer from the <em>sometimes</em> green and pleasant land of England. <br/>Website built on GatsbyJS and hosted on Github Pages. <br/><a href="https://twitter.com/de_novo_me">Pete on Twitter</a> &nbsp; <a href="https://github.com/denovo">Pete on Github</a>
+        Written by <strong>{config.authorName}</strong> - a Web Developer from the <em>sometimes</em> green and pleasant land of England. <br/>Website built on GatsbyJS and hosted on Github Pages. <br/><a href="https://twitter.com/de_novo_me" target="_blank">Pete on Twitter</a> &nbsp; <a href="https://github.com/denovo" target="_blank">Pete on Github</a>
         <br/><small>Record player icon made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 </a></small>
       </p>
     )
